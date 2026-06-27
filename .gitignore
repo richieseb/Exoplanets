@@ -1,0 +1,7 @@
+# Ignore giant raw Kaggle CSV datasets
+*.csv
+
+# Ignore local python environments
+__pycache__/
+.venv/
+.streamlit/
