@@ -1,9 +1,5 @@
 streamlit
-tensorflow
 pandas
 numpy
-scikit-learn
 scipy
-imbalanced-learn
 matplotlib
-seaborn
